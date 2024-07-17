@@ -14,9 +14,9 @@ Cookies are needed to fetch item prices from the Steam Community Market.
 ### Usage
 
 1. **Enter the necessary data:**
-   - **Steam ID:** Your Steam ID to access the inventory.
+   - **Steam ID:** Your Steam ID profile to access the inventory.
    - **App ID:** The Steam application ID for which you want to view the inventory.
-   - **Context ID:** The Steam inventory context ID.
+   - **Context ID:** The Steam inventory context ID. (1,2,3 or 6)
    - **Cookies:** Cookies for authentication and fetching item prices. To get cookies, do the following:
      - Go to the [this page](https://steamcommunity.com/market/search/render/?query=&start=0&count=100&search_descriptions=0&sort_column=popular&sort_dir=desc&appid=753&norender=1).
      - Press `Ctrl + Shift + I` to open the developer tools in your browser and go to the "Network" tab.
@@ -59,9 +59,9 @@ Cookies необходимы для получения цен предметов
 ### Использование
 
 1. **Укажите необходимые данные:**
-   - **Steam ID:** Ваш Steam ID для доступа к инвентарю.
+   - **Steam ID:** Ваш Steam ID профиля для доступа к инвентарю.
    - **App ID:** ID приложения Steam, для которого вы хотите просмотреть инвентарь.
-   - **Context ID:** ID контекста инвентаря Steam.
+   - **Context ID:** ID контекста инвентаря Steam. (1,2,3 или 6)
    - **Cookies:** Куки для аутентификации и получения цен предметов. Чтобы получить Cookies, выполните следующие действия:
      - Зайдите на [страницу](https://steamcommunity.com/market/search/render/?query=&start=0&count=100&search_descriptions=0&sort_column=popular&sort_dir=desc&appid=753&norender=1).
      - Нажмите `Ctrl + Shift + I` для открытия инструментов разработчика в браузере и перейдите на вкладку "Network" (Сеть).
