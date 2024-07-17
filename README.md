@@ -1,4 +1,5 @@
 # Steam Inventory Viewer Instructions
+[English](#english) | [Russian](#russian)
 
 ## English
 
@@ -45,7 +46,7 @@ Cookies are needed to fetch item prices from the Steam Community Market.
    pip install -r requirements.txt
    ```
 
-## На Русском
+## Russian
 
 ```bash
 git clone https://github.com/SkyLandYT2/Steam-Inventory-Viever.git
